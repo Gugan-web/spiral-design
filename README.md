@@ -6,7 +6,7 @@ A modern, community-focused Flutter + Firebase application for CCET where studen
 
 - **Role-based auth flows** for Student, Staff, and Admin.
 - **Social login** options: Google, GitHub, LinkedIn.
-- **Strict admin restriction**: only verified `t.gugan2005@gmail.com` can keep admin role.
+- **Strict admin restriction**: only the creator can keep admin role.
 - **Profile social account linking** for Google/GitHub/LinkedIn.
 - **Project sharing module** with title, description, tags, image URLs, links, author metadata.
 - **Discussion thread** under each project.
